@@ -1,0 +1,15 @@
+/home/prince/Development/CsharpProjects/Branches/bin/Debug/net7.0/Branches
+/home/prince/Development/CsharpProjects/Branches/bin/Debug/net7.0/Branches.deps.json
+/home/prince/Development/CsharpProjects/Branches/bin/Debug/net7.0/Branches.runtimeconfig.json
+/home/prince/Development/CsharpProjects/Branches/bin/Debug/net7.0/Branches.dll
+/home/prince/Development/CsharpProjects/Branches/bin/Debug/net7.0/Branches.pdb
+/home/prince/Development/CsharpProjects/Branches/obj/Debug/net7.0/Branches.csproj.AssemblyReference.cache
+/home/prince/Development/CsharpProjects/Branches/obj/Debug/net7.0/Branches.GeneratedMSBuildEditorConfig.editorconfig
+/home/prince/Development/CsharpProjects/Branches/obj/Debug/net7.0/Branches.AssemblyInfoInputs.cache
+/home/prince/Development/CsharpProjects/Branches/obj/Debug/net7.0/Branches.AssemblyInfo.cs
+/home/prince/Development/CsharpProjects/Branches/obj/Debug/net7.0/Branches.csproj.CoreCompileInputs.cache
+/home/prince/Development/CsharpProjects/Branches/obj/Debug/net7.0/Branches.dll
+/home/prince/Development/CsharpProjects/Branches/obj/Debug/net7.0/refint/Branches.dll
+/home/prince/Development/CsharpProjects/Branches/obj/Debug/net7.0/Branches.pdb
+/home/prince/Development/CsharpProjects/Branches/obj/Debug/net7.0/Branches.genruntimeconfig.cache
+/home/prince/Development/CsharpProjects/Branches/obj/Debug/net7.0/ref/Branches.dll
